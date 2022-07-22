@@ -1,5 +1,5 @@
 <?php
-
+//para ejecutar la clase solo es necesario ejecutarlo con el servicio xampp o similares
 class Reinas
 {
 	private $mesa = array();
